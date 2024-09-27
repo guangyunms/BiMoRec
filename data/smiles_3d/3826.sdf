@@ -1,0 +1,187 @@
+3826
+  -OEChem-03252401512D
+
+ 32 34  0     1  0  0  0  0  0999 V2000
+    8.4299    2.2496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7836    2.7876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6036   -2.2151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1945   -0.2119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1407    1.0928    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7244    0.2881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1407   -0.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1945    0.7881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2435   -0.5209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2435    1.0971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557    0.2881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4514    2.0433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9344   -1.4720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9563   -1.6799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2872   -0.9368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6473   -2.6310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -1.1447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6691   -2.8389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7532    1.1890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1852   -0.1266    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1852    0.7028    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8897   -1.0836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6781   -0.8259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0519    1.6868    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0357    0.2881    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6225    2.8389    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4788   -0.3471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0621   -3.0917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8942   -0.6839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4775   -3.4285    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3936   -2.2246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 13  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3826
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+376
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMAAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAWAAABwAAAHgAACAAADQzBngQwiJMMEgCoA6TyTACCgCAnAiAI2CG4ZNgIIPrAlbGEYQhmwAHIyYe8yeCeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-benzoyl-2,3-dihydro-1<I>H</I>-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(phenylcarbonyl)-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H13NO3/c17-14(10-4-2-1-3-5-10)13-7-6-12-11(15(18)19)8-9-16(12)13/h1-7,11H,8-9H2,(H,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OZWKMVRBQXNZKK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+255.08954328
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H13NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+255.27
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+59.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+255.08954328
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+10
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+14  15  8
+14  16  8
+15  17  8
+16  18  8
+17  19  8
+18  19  8
+4  8  8
+4  9  8
+5  12  3
+8  10  8
+9  11  8
+
+$$$$

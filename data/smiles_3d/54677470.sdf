@@ -1,0 +1,197 @@
+54677470
+  -OEChem-03252401412D
+
+ 36 38  0     1  0  0  0  0  0999 V2000
+    4.6660   -2.3750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3686    2.1195    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1660   -3.2410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1660   -3.2410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.6250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641   -0.8750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -1.8750    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3981    0.6250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1777    0.7183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -1.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -2.4096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -2.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -0.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.8958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    1.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3468    2.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8468    1.4614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7535    3.2410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -3.0296    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0881   -2.9119    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9350   -2.6850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7081   -1.8380    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    0.2796    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -2.2079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -0.5421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8612    0.9350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1291    0.9350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4634    1.3966    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3199    2.9888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0057    3.8074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1871    3.4932    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 31  1  0  0  0  0
+  9 20  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 23 34  1  0  0  0  0
+ 23 35  1  0  0  0  0
+ 23 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+54677470
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+628
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOABgAAAAAAAAAAAAAAAAAWAAAAAwQAAAAAAAAACBwAAAHgQQSAAADAzB2gQ/kZLIEgqsAjV3dHDC8LlxKDlJ2ByoSMiIZiLAGTCUcAAswQNImSeAwCAOAAAAAAAEAAAAAAAAAAgAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-hydroxy-2-methyl-N-(5-methylthiazol-2-yl)-1,1-dioxo-1lambda6,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-1,1-dioxo-1lambda6,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-hydroxy-2-methyl-<I>N</I>-(5-methyl-1,3-thiazol-2-yl)-1,1-dioxo-1&lambda;<SUP>6</SUP>,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+4-hydroxy-2-methyl-N-(5-methyl-1,3-thiazol-2-yl)-1,1-dioxo-1lambda6,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-N-(5-methyl-1,3-thiazol-2-yl)-4-oxidanyl-1,1-bis(oxidanylidene)-1lambda6,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-hydroxy-1,1-diketo-2-methyl-N-(5-methylthiazol-2-yl)-1lambda6,2-benzothiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H13N3O4S2/c1-8-7-15-14(22-8)16-13(19)11-12(18)9-5-3-4-6-10(9)23(20,21)17(11)2/h3-7,18H,1-2H3,(H,15,16,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZRVUJXDFFKFLMG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3
+
+> <PUBCHEM_EXACT_MASS>
+351.03474825
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H13N3O4S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+351.4
+
+> <PUBCHEM_REFERENCE_STANDARDIZATION>
+Bypass - this structure was created from CID 54677470
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
+
+> <PUBCHEM_CACTVS_TPSA>
+136
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+351.03474825
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  14  8
+11  16  8
+14  18  8
+16  19  8
+18  19  8
+2  20  8
+2  21  8
+21  22  8
+9  20  8
+9  22  8
+
+$$$$
